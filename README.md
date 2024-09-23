@@ -49,8 +49,6 @@ To set up this project locally, follow these instructions.
     ```bash
     java FlowLogParser
 
-
-
 ## Usage
 
 1. Place the flow_logs.txt and lookup_table.csv files in the project root directory.
@@ -62,8 +60,8 @@ To set up this project locally, follow these instructions.
 ## Output
 
 The program generates two sets of statistics:
-    1. Tag Counts: Displays how many times each tag appears in the flow logs.
-    2. Port/Protocol Combination Counts: Shows the frequency of each port and protocol combination.
+  1. Tag Counts: Displays how many times each tag appears in the flow logs.
+  2. Port/Protocol Combination Counts: Shows the frequency of each port and protocol combination.
 
 
 
