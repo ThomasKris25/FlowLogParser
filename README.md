@@ -38,12 +38,15 @@ To set up this project locally, follow these instructions.
    git clone https://github.com/your-username/flow-log-tagging-system.git
 
 2. Navigate to the project directory:
-    cd flow-log-tagging-system
+    ```bash
+    cd FlowLogParser
 
 3. Compile the Java files:
+    ```bash
     javac FlowLogParser.java
 
 4. Run the program:
+    ```bash
     java FlowLogParser
 
 
