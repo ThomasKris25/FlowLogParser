@@ -4,12 +4,6 @@ This is a Java-based program that processes flow log data and tags each log entr
 
 <a name="readme-top"></a>
 
-<div align="center">
-  <h3 align="center">Flow Log Tagging System</h3>
-  <p align="center">
-    Parse and tag flow logs using a customizable lookup table.
-  </p>
-</div>
 
 
 ## Members
