@@ -9,20 +9,20 @@ This is a Java-based program that processes flow log data and tags each log entr
 ## Members
 - Chongyuan Zhang
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## About The Project
 
 The objective of this project is to parse flow log data and assign tags to each log entry based on predefined rules specified in a lookup table. The system supports only the default log format and version 2 logs, ensuring that each log entry is mapped to the appropriate tag(s).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 - Java
 - Visual Studio Code
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ To set up this project locally, follow these instructions.
 
 4. Run the program:
     java FlowLogParser
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Usage
@@ -54,16 +54,15 @@ To set up this project locally, follow these instructions.
 2. Run the program using the command specified in the Installation section.
 3. The program will output the results to the console.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Output
 
 The program generates two sets of statistics:
-
     1. Tag Counts: Displays how many times each tag appears in the flow logs.
     2. Port/Protocol Combination Counts: Shows the frequency of each port and protocol combination.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Limitations
@@ -71,11 +70,10 @@ The program generates two sets of statistics:
 1. The program only processes version 2 logs in the default format.
 2. Custom log formats are not supported.
 3. The lookup table can have up to 10,000 mappings.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## Contact
 Chongyuan Zhang - [chongyuanzhang.kris@gmail.com]
 Project Link: [https://github.com/ThomasKris25]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
